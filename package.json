@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Stranger469/Nodejs_Cluster_Controller#readme",
   "dependencies": {
-    "http-proxy": "^1.17.0"
+    "http-proxy": "^1.17.0",
+    "proxy-by-directory": "0.0.4"
   }
 }
